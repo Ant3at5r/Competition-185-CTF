@@ -1,12 +1,12 @@
 # Competition-185-CTF
 CTF for CPT 185
 
-<u>OSINT</u>
-## Question 1
+##OSINT
+### Question 1
 What does OSINT stand for ? 
 A Open source intelligence
 
-## Question 2
+### Question 2
 The Army Reserve Cyber Protection Brigade (ARCPB) A 2016
 
-## Question 3
+### Question 3
