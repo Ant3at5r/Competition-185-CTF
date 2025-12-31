@@ -1,7 +1,7 @@
 # Competition-185-CTF
 CTF for CPT 185
 
-##OSINT
+## OSINT
 ### Question 1
 What does OSINT stand for ? 
 A Open source intelligence
